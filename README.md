@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![github(https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
 
 - 🔭 I’m currently studying in KCCITM(B.Tech 2nd Year)
 - 🌱 I’m currently learning App Development like IOS, Flutter and React Native
 - 🤔 I’m looking for help with ReactJS projects.
-- 📫 How to reach me: Linkedin:--> ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/ankushpanday/ 
+- 📫 How to reach me: Linkedin:--> ![LinkedIn(https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)] https://www.linkedin.com/in/ankushpanday/ 
 - ⚡ Fun fact: I like doing Competitive Programming and one main point I'm a 5 Star Customer of Zomato :sunglasses:.
 
 [![Ankush's github stats](https://github-readme-stats.vercel.app/api?username=RAINBOW-Men&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/RAINBOW-Men/github-readme-stats)
