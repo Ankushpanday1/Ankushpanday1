@@ -2,11 +2,6 @@
 
 
 <a href="https://www.linkedin.com/in/ankushpanday/linkedin-github" target="_blank">
- 
-</a>
-
-<br /><br />
-
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 
