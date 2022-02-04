@@ -1,5 +1,5 @@
 ### Hey There <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-#FF9A00
+
 
 - 🔭 I’m currently studying in KCCITM(B.Tech 2nd Year)
 - 🌱 I’m currently learning App Development like IOS, Flutter and React Native
