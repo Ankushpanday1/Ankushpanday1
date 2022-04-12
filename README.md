@@ -12,6 +12,3 @@ How to reach me: <a href=”mailto:panday92005@gmail.com”>panday92005@gmail.co
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RAINBOW-Men)](https://github.com/RAIBOW-Men/github-readme-stats)
 
-[![Website](https://img.shields.io/badge/kevinfeng.ga-grey?style=for-the-badge&url=https%3A%2F%2Fkevinfeng.ga)](https://kevinfeng.ga/)
-
-<img width=50px src=”https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png">
