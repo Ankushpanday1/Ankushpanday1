@@ -48,7 +48,7 @@
 <p align="center">
   <a href="https://leetcode.com/ankushpanday/" target="_blank">
     <img width=60% src="https://leetcode.card.workers.dev/?username=ankushpanday&theme=dark&extension=activity&border_radius=10"/>
-    ![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)
+    <img width=60% src="![](https://leetcard.jacoblin.cool/lapor?ext=heatmap)"/>
   </a>
 </p>
 
