@@ -81,11 +81,12 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ankushpanday1&" alt="ankushpanday1" /></p>
 
-### :zap: LeetCode Stats Card ❤️
+### :zap: LeetCode Stats Card  ❤️
 ![Line](https://user-images.githubusercontent.com/85225156/171937799-8fc9e255-9889-4642-9c92-6df85fb86e82.gif)
 <p align="center">
   <a href="https://leetcode.com/ankushpanday/" target="_blank">
     <img width=60% src="https://leetcode.card.workers.dev/?username=ankushpanday&theme=dark&extension=activity&border_radius=10"/>
+
   </a>
 </p>
 
