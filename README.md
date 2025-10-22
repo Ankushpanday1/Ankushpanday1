@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankush Panday</h1>
-<h3 align="center">Product Analyst | Product Management Enthusiast | Startup Collaborator</h3>
+<h3 align="center">AI Product Manager | Product Head At The Future University | Startup Collaborator</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankushpanday1&label=Profile%20views&color=0e75b6&style=flat" alt="ankushpanday1" /> </p>
 
@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 Currently working as [Product Analyst](https://instaastro.com) at InstaaStro, focusing on driving user engagement and growth.
+  🔭 Currently working as [AI PRoduct Manager](https://thefuture.university) at The Future University, focusing on driving user engagement and growth.
 
 - 👯 Open to collaborating on **Product Management, Strategy, and Startups**.
 
@@ -42,7 +42,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
   </a> 
   <a href="https://getbootstrap.com" target="_blank"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap plain wordmark.svg" alt="bootstrap" width="40" height="40"/> 
   </a> 
   <a href="https://www.mongodb.com/" target="_blank"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
